@@ -1,0 +1,28 @@
+# Arduino build files
+*.hex
+*.bin
+*.elf
+*.eep
+*.map
+
+# Arduino IDE build folders
+build/
+*.arduino.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# VS Code (optional)
+.vscode/
+
+# PlatformIO (optional future use)
+.pio/
+.pioenvs/
+.piolibdeps/
